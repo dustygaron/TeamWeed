@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="227px" height="243px" viewBox="0 0 227 243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1027.000000, -994.000000)" fill="#C995FF">
+            <g id="Group-15" transform="translate(186.000000, 874.000000)">
+                <g id="Group" transform="translate(762.000000, 120.000000)">
+                    <path d="M199,240 C262.371452,224.5 306,211.936739 306,145.662569 C306,124.865833 294.308345,88.7304413 285,71.6773299 C264.6449,34.3863 244.477433,8.52651283e-14 199,8.52651283e-14 C132.72583,8.52651283e-14 79,53.72583 79,120 C79,186.27417 135.628548,255.5 199,240 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
